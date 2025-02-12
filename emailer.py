@@ -64,7 +64,7 @@ items_list = ["The System has successfully recorded these items:",
                " in the grand Chronicles of our venerable Institution:"]
 
 
-goodbye_list = ["Kind Regards", "Thanks", "Best regards", "Sincerely", 
+goodbye_list = ["Kind Regards", "Thanks", "Best regards", "Sincerely",
                 "Warm regards", "Best wishes", "Regards", "Yours sincerely",
                   "Thank you", "With gratitude", "Much appreciated",
                 "Many thanks","Take care", "Have a great day", "All the best",
